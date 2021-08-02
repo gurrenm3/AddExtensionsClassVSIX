@@ -9,3 +9,4 @@ Next give it a name and optionally create it with a basic extension method alrea
 ![preview2](https://github.com/gurrenm3/AddExtensionsClassVSIX/blob/master/Add%20Extension%20Class%20name.png)
 
 ### Download it [here](https://marketplace.visualstudio.com/items?itemName=Thomas-Margraff.AddExtensionClass)
+#### This project relies on my "AddItems" shared project. You can find it [here](https://github.com/gurrenm3/AddNewItem_Template.Shared)
