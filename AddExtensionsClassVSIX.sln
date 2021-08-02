@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddExtensionsClassVSIX", "AddExtensionsClassVSIX\AddExtensionsClassVSIX.csproj", "{31894E07-AAC4-4A9C-9930-2DE8A6678E36}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AddNewItem_Template.Shared", "..\AddNewItem_Template.Shared\AddNewItem_Template.Shared.shproj", "{5CE0D56B-021A-4D4D-9E77-F0924B8941B9}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\AddNewItem_Template.Shared\AddNewItem_Template.Shared.projitems*{31894e07-aac4-4a9c-9930-2de8a6678e36}*SharedItemsImports = 4
+		..\AddNewItem_Template.Shared\AddNewItem_Template.Shared.projitems*{5ce0d56b-021a-4d4d-9e77-f0924b8941b9}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31894E07-AAC4-4A9C-9930-2DE8A6678E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31894E07-AAC4-4A9C-9930-2DE8A6678E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31894E07-AAC4-4A9C-9930-2DE8A6678E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31894E07-AAC4-4A9C-9930-2DE8A6678E36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF4987C9-C4E5-4951-8353-57FDF57BF096}
+	EndGlobalSection
+EndGlobal
